@@ -2,9 +2,6 @@
 
 from __future__ import print_function
 
-# Import service
-from vision_getter_v4.srv import *
-
 # Import ROS libraries and messages
 import rospy
 from sensor_msgs.msg import Image
