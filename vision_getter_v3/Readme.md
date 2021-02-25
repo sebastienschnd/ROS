@@ -2,7 +2,7 @@ Package vision_getter_v3
 
 Principe:
 - illustration du client/server pour l'envoi d'une image
-- essai darknet OpenCV 
+- essai YOLO OpenCV 
 
 Fonctionnement:
 - disposer d'une image sous /tmp/image.jpg
